@@ -47,6 +47,6 @@
 * 🤝 Community Pantry (Web Application)
 * 📝 To-Do App (HTML, CSS, JavaScript)
 ## 📫 Connect With Me
-* 💼 GitHub: [https://github.com/gorlabhavani19](https://github.com/gorlabhavani19)
+* 💼 GitHub: [https://github.com/gorlabhavani19](https://github.com/gorlabhavani19-dotcom)
 * 🔗 LinkedIn:Bhavani Gorla
 <p align="center">✨ Keep Learning | Keep Building 
