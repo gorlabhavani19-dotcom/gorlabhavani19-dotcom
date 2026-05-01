@@ -3,10 +3,13 @@
 
 👋 Hi, I'm Bhavani
 
-#🎓 Student passionate about software development
-#💡 Interested in building real-world applications
-#🌱 Currently learning **Full Stack Development**
-#⚡ Exploring new technologies every day
+🎓 Student passionate about software development
+
+💡 Interested in building real-world applications
+
+🌱 Currently learning **Full Stack Development*
+
+⚡ Exploring new technologies every day
 
 ---
 
