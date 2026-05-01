@@ -1,52 +1,38 @@
+👩‍💻 Aspiring Full Stack Developer
+👋 Hi, I'm Bhavani
+🎓 Student passionate about software development
+💡 Interested in building real-world applications
+🌱 Currently learning **Full Stack Development**
+⚡ Exploring new technologies every day
+🚀 What I'm Focused On
+🔹 Improving **Java & Problem Solving**
+🔹 Building **Full Stack Projects**
+🔹 Strengthening **Frontend Skills**##🛠️ Tech Stack
+🌐 Frontend
+* HTML
+* CSS
+* JavaScript
+* React
+* ⚙️ Backend *(Learning)*
+* Node.js
+* Express.js
+🗄️ Database
+📜 Certifications
+🎓 **Namaste React Certificate** – NamasteDev
+✔ Completed React fundamentals and real-world concepts
 
-### Aspiring Full Stack Developer
+💻 **JavaScript (Basic) Certificate** – HackerRank
+✔ Verified JavaScript fundamentals
 
-## 👩‍💻 Hii 👋 I am Bhavani
-
-* 🎓 Student passionate about software development
-* 💡 Interested in building real-world applications
-* 🌱 Currently learning **Full Stack Development**
-* ⚡ Exploring new technologies every day
-
----
-
-## 🚀 What I'm Focused On
-
-* 🔹 Improving **Java & Problem Solving**
-* 🔹 Building **Full Stack Projects**
-* 🔹 Strengthening **Frontend Skills**
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### ☕ Programming
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java" />
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
----
-
-## 🚀 Projects
-
-* 🍔 Food Ordering App (React, JavaScript)
-* 🎬 NetflixGPT Clone (React, API Integration)
-* 🤝 Community Pantry (Web Application)
-* 📝 To-Do App (HTML, CSS, JavaScript)
+🗄️ **SQL Certification**
+✔ Knowledge of queries, joins, and database operations
+📌 Goals
+🎯 Become a **Full Stack Developer**
+🎯 Build impactful real-world applications
+🎯 Improve coding skills and problem solving
 ## 📫 Connect With Me
-* 💼 GitHub: [https://github.com/gorlabhavani19](https://github.com/gorlabhavani19-dotcom)
-* 🔗 LinkedIn:Bhavani Gorla
-<p align="center">✨ Keep Learning | Keep Building 
+
+* GitHub: https://github.com/your-username
+* LinkedIn: Add your link here
+✨ *Always learning, always building* 🚀
+
