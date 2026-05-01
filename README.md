@@ -16,10 +16,10 @@
 ## 🚀 What I'm Focused On
 
 🔹 Improving **Java & Problem Solving**
-🔹 Building **Full Stack Projects**
-🔹 Strengthening **Frontend Skills**
 
----
+🔹 Building **Full Stack Projects**
+
+🔹 Strengthening **Frontend Skills**
 
 ## 🛠️ Tech Stack
 
