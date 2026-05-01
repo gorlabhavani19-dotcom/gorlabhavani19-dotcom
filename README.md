@@ -61,8 +61,8 @@
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/your-username
-* LinkedIn: Add your link here
+* GitHub: https://github.com/gorlabhavani19-dotcom
+* LinkedIn:Bhavani Gorla
 
 ---
 
